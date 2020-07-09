@@ -1,5 +1,5 @@
 // import other routes
-const editorRoutes = require('./editor');
+const editorRoutes = require('./edit');
 
 const appRouter = (app, fs) => {
 
