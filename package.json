@@ -1,7 +1,7 @@
 {
   "name": "Minimal live editing web",
   "version": "1.0.0",
-  "description": "editorjs + nodejs + handlebars",
+  "description": "nodejs back-end for editorjs",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
